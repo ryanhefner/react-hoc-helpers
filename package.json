@@ -59,6 +59,7 @@
     "dtslint": "^0.9.2",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
+    "greenkeeper-lockfile": "^1.15.1",
     "gzip-size": "^5.1.1",
     "hoist-non-react-statics": "^3.3.0",
     "jest": "^24.9.0",
