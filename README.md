@@ -1,9 +1,11 @@
 # react-hoc-helpers
 
-[![npm version](https://badge.fury.io/js/react-hoc-helpers.svg)](https://badge.fury.io/js/react-hoc-helpers)
-[![npm](https://img.shields.io/npm/l/express.svg)](LICENSE)
-[![Coverage Status](https://coveralls.io/repos/github/ryanhefner/react-hoc-helpers/badge.svg?branch=master)](https://coveralls.io/github/ryanhefner/react-hoc-helpers?branch=master)
-[![CircleCI](https://circleci.com/gh/ryanhefner/react-hoc-helpers.svg?style=shield)](https://circleci.com/gh/ryanhefner/react-hoc-helpers)
+![npm](https://img.shields.io/npm/v/react-hoc-helpers?style=flat-square)
+![NPM](https://img.shields.io/npm/l/react-hoc-helpers?style=flat-square)
+![npm](https://img.shields.io/npm/dt/react-hoc-helpers?style=flat-square)
+![Coveralls github](https://img.shields.io/coveralls/github/ryanhefner/react-hoc-helpers?style=flat-square)
+![CircleCI](https://img.shields.io/circleci/build/github/ryanhefner/react-hoc-helpers?style=flat-square)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/ryanhefner/react-hoc-helpers?style=flat-square)
 
 
 🧰 Collection—well, just one for now—of helpful utilities and helpers for when
