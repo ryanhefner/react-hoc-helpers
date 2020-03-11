@@ -4,7 +4,7 @@
 [![npm](https://img.shields.io/npm/l/express.svg)](LICENSE)
 [![Coverage Status](https://coveralls.io/repos/github/ryanhefner/react-hoc-helpers/badge.svg?branch=master)](https://coveralls.io/github/ryanhefner/react-hoc-helpers?branch=master)
 [![CircleCI](https://circleci.com/gh/ryanhefner/react-hoc-helpers.svg?style=shield)](https://circleci.com/gh/ryanhefner/react-hoc-helpers)
-[![Greenkeeper badge](https://badges.greenkeeper.io/ryanhefner/react-hoc-helpers.svg)](https://greenkeeper.io/)
+
 
 🧰 Collection—well, just one for now—of helpful utilities and helpers for when
 working with React higher-order components (HOC).
