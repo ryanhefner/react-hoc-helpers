@@ -1,6 +1,6 @@
 {
   "name": "react-hoc-helpers",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Some helper functions that you typically need when writing React Higher-Order Components.",
   "repository": "ryanhefner/react-hoc-helpers",
   "author": "Ryan Hefner <hi@ryanhefner.com> (https://www.ryanhefner.com)",
