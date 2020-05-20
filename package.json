@@ -9,6 +9,10 @@
     "url": "https://github.com/ryanhefner/react-hoc-helpers/issues"
   },
   "homepage": "https://github.com/ryanhefner/react-hoc-helpers#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/ryanhefner"
+  },
   "keywords": [
     "react",
     "react-hoc",
