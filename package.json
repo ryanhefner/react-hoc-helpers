@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.10.4",
-    "@types/react": "^16.9.42"
+    "@types/react": "^16.9.43"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.4",
